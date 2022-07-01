@@ -1,0 +1,35 @@
+.transaction-item{
+    display: flex;
+    background-color: #fff;
+    color: black;
+    width: 500px;
+    height: 70px;
+    margin-top: 5px;
+    margin-bottom: 5px; 
+}
+
+.expense-line{
+    border-right: 4px solid red;
+    margin-left: auto;
+    border-radius: 100px;
+}
+
+.income-line{
+    border-radius: 100px;
+    border-right: 4px solid green;
+    margin-left: auto;
+}
+
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    color: chocolate;
+    text-shadow: 25px;
+     
+}
+ 
+h1:hover{
+    color: red;
+    cursor: alias;
+}
+

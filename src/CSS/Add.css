@@ -1,0 +1,40 @@
+input{
+    width: 500px;
+    height: 50px;
+    background-color: rgb(253, 238, 221);
+    border: none;
+    padding-left: 15px;
+    margin-top: 15px;
+    border-radius: 10px;
+    border-bottom: 5px solid chocolate;
+    border: 0 5px 5px 0;
+}
+
+select{
+    width: 513px;
+    height: 50px;
+    background-color: rgb(253, 238, 221);
+    border: none;
+    padding-left: 15px;
+    margin-top: 15px;
+    border-radius: 10px;
+    border-bottom: 5px solid chocolate;
+   
+}
+
+#btn{
+    margin-left: 3px;
+    margin-top: 15px;
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+    border: 2px solid chocolate;
+    cursor: pointer;
+    text-transform: uppercase;
+    color: black;
+    font-weight: bolder;
+}
+
+#btn:hover{
+    color: darkgoldenrod;
+}
